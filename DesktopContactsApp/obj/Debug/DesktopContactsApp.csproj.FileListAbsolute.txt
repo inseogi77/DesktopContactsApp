@@ -81,3 +81,5 @@ D:\63.wpf\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.csp
 D:\63.wpf\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.csproj.CopyComplete
 D:\63.wpf\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.exe
 D:\63.wpf\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.pdb
+D:\63.wpf\DesktopContactsApp\DesktopContactsApp\obj\Debug\ContactDetailWindow.g.cs
+D:\63.wpf\DesktopContactsApp\DesktopContactsApp\obj\Debug\ContactDetailWindow.baml
