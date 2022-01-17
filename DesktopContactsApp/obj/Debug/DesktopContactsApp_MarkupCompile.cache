@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\63.wpf\DesktopContactsApp\DesktopContactsApp\App.xaml
-3465661155
+4-874958660
 2964324788
-8-1436856791
+9-1046820219
 711222901881
-ContactDetailWindow.xaml;MainWindow.xaml;NewContactWindow.xaml;
+ContactDetailWindow.xaml;Controls\ContactControl.xaml;MainWindow.xaml;NewContactWindow.xaml;
 
 False
 

@@ -83,3 +83,6 @@ D:\63.wpf\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.exe
 D:\63.wpf\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.pdb
 D:\63.wpf\DesktopContactsApp\DesktopContactsApp\obj\Debug\ContactDetailWindow.g.cs
 D:\63.wpf\DesktopContactsApp\DesktopContactsApp\obj\Debug\ContactDetailWindow.baml
+D:\63.wpf\DesktopContactsApp\DesktopContactsApp\obj\Debug\Controls\ContactControl.g.cs
+D:\63.wpf\DesktopContactsApp\DesktopContactsApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\63.wpf\DesktopContactsApp\DesktopContactsApp\obj\Debug\Controls\ContactControl.baml
